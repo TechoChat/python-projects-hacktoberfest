@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to python-projects-hacktoberfest 🐍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Techiral/python-projects-hacktoberfest?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/Techiral/python-projects-hacktoberfest?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/stars/TechoChat/python-projects-hacktoberfest?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/TechoChat/python-projects-hacktoberfest?style=social" alt="GitHub forks">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-green.svg" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/contributors/Techiral/python-projects-hacktoberfest" alt="GitHub contributors">
-  <img src="https://img.shields.io/github/last-commit/Techiral/python-projects-hacktoberfest" alt="GitHub last commit">
-  <img src="https://img.shields.io/github/issues-pr/Techiral/python-projects-hacktoberfest" alt="GitHub pull requests">
+  <img src="https://img.shields.io/github/contributors/TechoChat/python-projects-hacktoberfest" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/last-commit/TechoChat/python-projects-hacktoberfest" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/issues-pr/TechoChat/python-projects-hacktoberfest" alt="GitHub pull requests">
   <img src="https://img.shields.io/badge/Hacktoberfest-friendly-blueviolet" alt="Hacktoberfest">
   </p>
 
@@ -51,7 +51,7 @@ We welcome contributions from developers of all skill levels. Follow these steps
     git push origin feature/your-feature-name
     ```
 
-5. **Create a Pull Request:** Go to the [python-projects-hacktoberfest repository](https://github.com/Techiral/python-projects-hacktoberfest/) on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
+5. **Create a Pull Request:** Go to the [python-projects-hacktoberfest repository](https://github.com/TechoChat/python-projects-hacktoberfest/) on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
 
 6. **Review and Collaborate:** Collaborate with the maintainers and other contributors to address any feedback and get your Pull Request merged.
 
