@@ -85,6 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 We appreciate the contributions from the following community members:
 
 - [Kevin](https://github.com/TechoChat)
+- [Deep](https://github.com/Dexter766)
 
 ---
 
